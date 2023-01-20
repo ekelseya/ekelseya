@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hello, world! I'm Eryn!
 
-<!--
-**ekelseya/ekelseya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web accessibility advocate and researcher. 
 
-Here are some ideas to get you started:
+## :left_speech_bubble: About Me
+
+- :school: I'm currently a grad student at Colorado School of Mines
+
+- :microscope: I research web accessibility, especially in higher education
+
+- :spider_web: I love web development
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
